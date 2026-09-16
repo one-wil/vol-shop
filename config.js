@@ -451,10 +451,10 @@ const STORE_CONFIG = {
     "promoDiscountProducts": []
   },
   "STORE_INFO": {
-    "name": "Vol-Shop",
+    "name": "Vol-Shop1",
     "storeIcon": "-",
     "storeTitle": "-",
-    "tagline": "متجر عمي داون",
+    "tagline": "متجر الأحلام ",
     "phoneNumbers": [
       "0671466489",
       "0551102155"
@@ -464,8 +464,8 @@ const STORE_CONFIG = {
     "instagramUrl": "",
     "messengerUrl": "",
     "viberNumber": "",
-    "whatsappNumber": "0671466489",
-    "whatsappUrl": "https://wa.me/0671466489"
+    "whatsappNumber": "213671466489",
+    "whatsappUrl": "https://wa.me/213671466489"
   },
   "GOOGLE_SHEETS": {
     "url": "",
